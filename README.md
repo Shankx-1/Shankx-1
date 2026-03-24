@@ -1,4 +1,4 @@
-# Hi there, I'm Harman Singh 👋
+# Hi there, I'm Harman Singh
 
 I am a First Year B.Tech student majoring in Computer Science Engineering (CSE). 
 
